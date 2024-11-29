@@ -8,7 +8,7 @@ terraform {
   backend "s3" {
     bucket = "terraform-vpc-backend-s3-bucket"
     key    = "dev/terraform.tfstate"
-    region = "us-east-1"
+    region = "eu-north-1"
   }
 }
 provider "aws" {
