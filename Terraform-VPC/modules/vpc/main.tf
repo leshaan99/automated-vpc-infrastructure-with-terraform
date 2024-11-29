@@ -38,7 +38,7 @@ resource "aws_route_table" "rt" {
   }
 
   tags = {
-    Name = "MyInternetGateway"
+    Name = "MyRouteTable"
   }
 }
 
