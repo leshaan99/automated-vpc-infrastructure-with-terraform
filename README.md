@@ -1,4 +1,4 @@
-# 🌐 Automated VPC and EC2 Deployment with Terraform & GitHub Actions 🚀  
+# 🌐 Automated VPC infrastructure with Terraform & GitHub Actions 🚀  
 
 This repository demonstrates how to automate the creation of a **Virtual Private Cloud (VPC)** and associated AWS resources using **Terraform**, along with **GitHub Actions** for CI/CD.  
 
