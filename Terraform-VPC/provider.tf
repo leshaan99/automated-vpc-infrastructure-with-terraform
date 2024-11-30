@@ -6,9 +6,9 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "terraform-vpc-backend-s3-bucket"
+    bucket = "tf-vpc-backend-s3-bucket"
     key    = "dev/terraform.tfstate"
-    region = "eu-north-1"
+    region = "us-east-1"
   }
 }
 provider "aws" {
