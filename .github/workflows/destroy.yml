@@ -1,4 +1,4 @@
-name: Terraform CI CD Pipeline for Deploying AWS Resources
+name: Terraform CI CD Pipeline for Destroy AWS Resources
 run-name: ${{ github.actor }} has triggered the pipeline
 
 on:
